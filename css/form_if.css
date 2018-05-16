@@ -1,0 +1,12 @@
+.form {
+    width: 400px;
+}
+.form__field {
+    float: right;
+    width: 200px;
+    height: 20px;
+    box-sizing: border-box;
+}
+.form__item {
+    margin: 20px 0;
+}
